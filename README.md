@@ -1,6 +1,7 @@
 # Project-One
-### Desafio de Projeto sobre Git/GitHub - Dio
----
+#### Desafio de Projeto sobre Git/GitHub - Dio
+---------------
+
 ## _Comandos Base_
 
 - _dir_
@@ -41,4 +42,20 @@ _Itálico_
 
  - Lista 1
  - Lista 1.1
+ 
+ 1. Lista 2
+ 2. Lista 2.1
+    * Subitem 1
 
++ Item 1
+- Item 2
+* Item 3
+
+
+Cabeçalho 1
+===============
+
+Cabeçalho 2
+---------------
+
+Aperte [aqui](http://url.com "Título").
